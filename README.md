@@ -1,6 +1,6 @@
 # mtime_sync
 
-helper tool to treat modified time with file sharing service such git
+helper tool to treat modified time with file sharing service such as git
 
 # using
 
