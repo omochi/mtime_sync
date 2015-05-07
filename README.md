@@ -21,6 +21,6 @@ $ mtime_sync.py load
 Script traverses directory tree from current directory.
 And put meta file in each directory.
 
-Ofcoruse you can run script by hook script.
+Of course you can run script by hook script.
 
 
